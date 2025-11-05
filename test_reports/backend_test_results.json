@@ -1,0 +1,142 @@
+{
+  "total_tests": 27,
+  "passed_tests": 27,
+  "success_rate": 100.0,
+  "detailed_results": [
+    {
+      "test": "User 1 Signup",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "User 2 Signup",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "User 1 Login",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "User 2 Login",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get User 1 Profile",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get User 2 Profile",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Create Event 'User 1 Meeting' (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Create Event 'User 1 Swappable Slot' (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Create Event 'User 2 Meeting' (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Create Event 'User 2 Swappable Slot' (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Events (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Events (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Update Event Status to SWAPPABLE (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Update Event Status to BUSY (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Swappable Slots (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Swappable Slots (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Update Event Status to SWAPPABLE (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Update Event Status to SWAPPABLE (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Create Swap Request (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Incoming Requests (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Outgoing Requests (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Accept Swap Request (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Events (User 1)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Events (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Delete Event (User 2)",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Unauthorized Access",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Duplicate Email Signup",
+      "success": true,
+      "details": ""
+    }
+  ]
+}
