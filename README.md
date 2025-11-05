@@ -459,14 +459,6 @@ pytest backend_test.py -v
 └── README.md             # This file
 ```
 
-## 🤝 Contributing
 
-This is a technical challenge submission. For questions or feedback, please contact the development team.
-
-## 📜 License
-
-Built as part of ServiceHive Full Stack Intern Technical Challenge - 2025
 
 ---
-
-**Developed with ❤️ using Emergent Agent**
