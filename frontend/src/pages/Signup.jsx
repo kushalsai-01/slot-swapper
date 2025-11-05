@@ -106,7 +106,7 @@ const Signup = () => {
                 type="password"
                 placeholder="••••••••"
                 value={password}
-                onChange={(e) => setPassword(e.target.value)>
+                onChange={(e) => setPassword(e.target.value)}
                 required
                 minLength={6}
                 data-testid="signup-password-input"
