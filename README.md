@@ -3,15 +3,6 @@
 SlotSwapper is a **full-stack web application** that allows users to swap their busy time slots with others easily.  
 Users can mark specific slots as *swappable*, browse others’ available slots, and send or receive swap requests in real-time.
 
----
-
-## 🚀 Live Demo
-> The application is live at:  
-`https://schedswap.vercel.app`  
-*(Replace this link with your actual deployment URL if different.)*
-
----
-
 ## ✨ Features
 
 ### 🧩 Core Features
@@ -59,9 +50,4 @@ Make sure you have the following installed:
 
 ---
 
-## 🏗️ Local Setup Guide
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/slotswapper.git
-cd slotswapper
